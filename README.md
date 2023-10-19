@@ -7,7 +7,7 @@ Install Cmake from browser.
 Download visual studio for c++ in your pc if it is not there.
 
 # Process:
-# This program will do three primary tasks:
+This program will do three primary tasks:
 
 1.Train a new face recognition model.
 2.Validate the model.
