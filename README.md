@@ -1,7 +1,7 @@
 # face_recognizer
 
 Setup:
-Install all dependencies using requirements.text
+Install all dependencies using requirements.txt.
 Download choclatey using command prompt.
 Install Cmake from browser.
 Download visual studio for c++ in your pc if it is not there.
